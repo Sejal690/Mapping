@@ -1,130 +1,91 @@
-city,Latitude,Longitude
-Aagra,27.18,78.02
-Ahmedabad,23.0225,72.5714
-Aligarh,27.88,78.08
-Ataulpur,25.4958,85.2021
-Alija Kotla,17.2333,78.55
-Ambapura,16.599,80.8938
-Ambattur,13.1143,80.1548
-Amritsar,31.64,74.86
-Andheri,19.2104,73.0464
-Arshakunti,13.0785,77.4225
-Aurangabad,19.88,75.32
-Bangalore,13.133,77.666
-Bali,25.481,85.2227
-Bangalore,12.9789,77.5917
-Bayandhalli,12.9779,77.5688
-Bhatpara,22.87,88.41
-Bhopal,23.2599,77.4126
-Bilaspur,22.09,82.15
-Bommayapalayam,11.9922,79.8499
-Byatarayanpur,13.0659,77.5922
-Chachohalli,13.001,77.4717
-Chakapara,22.63,88.35
-Chandigarh,30.75,76.78
-Chandannagar,22.87,88.38
-Chennai,13.0825,80.275
-Dasarahalli,13.0465,77.513
-Dalupura,28.6004,77.3194
-Delhi,28.61,77.23
-Devanandapur,22.9326,88.3729
-Dhanbad,23.7998,86.4305
-Doddajivanahalli,13.0086,77.6143
-Faridabad,28.4211,77.3078
-Ghaziabad,28.6317,77.3186
-Gundur,28.67,77.42
-Guwahati,10.7339,78.7184
-Gwalior,26.1722,91.7458
-Haldwani,22.58,88.3294
-Hariladih,29.22,79.52
-Hyderabad,13.1435,77.62
-Indore,13.1651,77.6512
-Jalahalli,17.3617,78.4747
-Jabalpur,22.7167,75.8472
-Jaipur,13.0333,77.55
-Jamshedpur,23.1667,79.9333
-Jethuli,26.9,75.8
-Jodhpur,22.7925,86.1842
-Kukatpally,25.5378,85.2841
-Kadiganahalli,26.28,73.02
-Kankuria,17.4849,78.4138
-Kalyan,24.6523,87.9604
-Kammanhalli,12.9965,77.4331
-Kanpur,19.2502,73.1602
-Kasgatpur,13.0155,77.6381
-Kedihati,26.4499,80.3319
-Kendrapara,13.1101,77.5045
-Kolkata,13.0095,77.4191
-Kota,12.9771,77.4651
-Krishnanagar,22.5675,88.37
-Loni,25.18,75.83
-Lucknow,23.4,88.5
-Ludhiana,28.75,77.28
-Meerpet,26.85,80.95
-Madnaikanhalli,17.32,78.52
-Madhavaram,13.0525,77.4732
-Madipakkam,13.0626,77.4642
-Madurai,13.1482,80.2314
-Mahuli,12.9623,80.1986
-Mailanhalli,9.9252,78.1198
-Manali,25.543,85.2268
-Meerut,13.1863,77.6963
-Mirchi,13.1667,80.2667
-Mirzapur,28.98,77.71
-Mumbai,25.5554,85.2139
-Murtazabad,25.146,82.569
-Muzaffarpur,19.0761,72.8775
-Nagpur,28.7111,77.2688
-Nangloi Jat,26.1225,85.3906
-Narayanpur Kola,21.1497,79.0806
-Nashik,28.6833,77.0667
-Nagtala,25.1293,87.0076
-Najafgarh,19.9975,73.7898
-Nanmangalam,22.4667,88.3833
-Nathupur,28.6092,76.9798
-Nerkunram,12.9381,80.1753
-New Delhi,25.5163,85.2544
-Pappakurichi,28.6139,77.2089
-Pakri,11.957,79.7737
-Pallavaram,10.8137,78.7481
-Patna,25.5876,85.158
-Pimpri-Chinchwad,12.9675,80.1491
-Prayagraj,25.594,85.1376
-Puducherry,18.6186,73.8037
-Punadih,25.4358,81.8464
-Pune,11.9167,79.8167
-Puri,25.5484,85.2649
-Rajkot,18.5203,73.8567
-Ranchi,19.8,85.8167
-Raipur,22.3,70.7833
-Surat,23.36,85.33
-Sabalpur,21.2444,81.6306
-Saino,21.1702,72.8311
-Salt Lake City,25.6053,85.1835
-Salua,25.1134,87.0108
-Santoshpur,22.61,88.4
-Secunderabad,22.61,88.27
-Shekhpura,22.465,88.2193
-Shimla,17.4399,78.4983
-Shrirampur,25.5725,85.1428
-Sijua,31.1033,77.1722
-Simli Murarpur,22.75,88.34
-Sonawan,23.7762,86.3303
-Sondekoppa,25.5792,85.2401
-Sonnappanhalli,25.5445,85.2387
-Sonudih,13,77.3667
-Srinagar,13.1557,77.6179
-Sultanpur,25.1155,87.0214
-Sultanpur Mazra,34.09,74.79
-Taliganja,28.6981,77.0689
-Tarchha,26.126,86.605
-Thane,22.5041,88.3598
-Tiruvottiyur,25.1116,87.0964
-Titagarh,19.1972,72.9722
-Tribeni,13.16,80.3
-Vajarahalli,22.74,88.37
-Varanasi,22.9867,88.3987
-Vadodara,13.1022,77.4111
-Vasai-Virar,25.3189,83.0128
-Vijayawada,22.3,73.2
-Visakhapatnam,19.3607,72.7956
+City,Latitude  ,Longitude  
+New Delhi,28.6°  ,77.2°  
+Mumbai,19.1°  ,72.9°  
+Kolkata,22.6°  ,88.4°  
+Chennai,13.1°  ,80.2°  
+Bangalore,12.9°  ,77.6°  
+Hyderabad,17.4°  ,78.5°  
+Pune,18.5°  ,73.9°  
+Ahmedabad,23.0°  ,72.6°  
+Jaipur,26.9°  ,75.8°  
+Lucknow,26.9°  ,81.0°  
+Surat,21.2°  ,72.8°  
+Indore,22.7°  ,75.9°  
+Patna,25.6°  ,85.2°  
+Nagpur,21.1°  ,79.1°  
+Chandigarh,31.7°  ,76.8°  
+Guwahati,26.1°  ,91.8°  
+Kochi,10.2°  ,76.2°  
+Triva drum,8.5°  ,76.9°  
+Visakhapat am,17.7°  ,83.3°  
+Vijayawada,16.5°  ,82.3°  
+Meerut,28.9°  ,77.7°  
+Agra,27.2°  ,78.0°  
+Kanpur,26.5°  ,81.0°  
+Prayagraj,25.4°  ,81.8°  
+Jamshedpur,22.8°  ,86.2°  
+Ranchi,23.3°  ,85.3°  
+Bhubaneswar,20.3°  ,85.8°  
+Thiruvananthapuram,8.5°  ,77.0°  
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
